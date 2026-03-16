@@ -1,6 +1,5 @@
 <h1 align="center">NezertorcheaT</h1>
 
-## Links:
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yBfmBtYWMM)
@@ -13,9 +12,34 @@
 ## Featured projects:
 
 <div align="center">
-<iframe style="height:300px; width:300px;" src="https://nezertorcheat.github.io/NezertorcheaT/featured.html">
-<b>sus</b>
-</iframe>
+  <table>
+    <tr>
+      <td align="center" width=200>
+        <a href="https://github.com/NezertorcheaT/Endborn-builds" style="text-decoration: none;">
+          <div>
+            <img src="https://raw.githubusercontent.com/NezertorcheaT/Endborn-builds/refs/heads/main/.github/Endborn_logo.png" alt="Endborn" width="64" /><br />
+            <strong style="color: #58a6ff; font-size: 14px;">Endborn</strong>
+          </div>
+        </a>
+      </td>
+      <td align="center" width=200>
+        <a href="https://github.com/NezertorcheaT/Pressure" style="text-decoration: none;">
+          <div>
+            <img src="https://raw.githubusercontent.com/NezertorcheaT/Pressure/refs/heads/main/Assets/Textures/logo.png" alt="Pressure" width="64" /><br />
+            <strong style="color: #58a6ff; font-size: 14px;">Pressure</strong>
+          </div>
+        </a>
+      </td>
+      <td align="center" width=200>
+        <a href="https://github.com/NezertorcheaT/RockAndRockGame" style="text-decoration: none;">
+          <div>
+            <img src="https://github.com/NezertorcheaT/RockAndRockGame/blob/main/Assets/Sprits/icon.png?raw=true" alt="Rock&Rock" width="64" /><br />
+            <strong style="color: #58a6ff; font-size: 14px;">Rock & Rock</strong>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Can do:

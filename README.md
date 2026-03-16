@@ -9,7 +9,7 @@
 
 </div>
 
-## Featured projects:
+## Proud projects:
 
 <div align="center">
   <table>

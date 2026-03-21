@@ -13,7 +13,7 @@
 
 <div align="center">
   <table>
-    <tr>
+<!--     <tr>
       <td align="center" width=200>
         <a href="https://github.com/NezertorcheaT/Endborn-builds" style="text-decoration: none;">
           <div>
@@ -21,7 +21,7 @@
             <strong style="color: #58a6ff; font-size: 14px;">Endborn</strong>
           </div>
         </a>
-      </td>
+      </td>-->
       <td align="center" width=200>
         <a href="https://github.com/NezertorcheaT/Pressure" style="text-decoration: none;">
           <div>

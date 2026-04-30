@@ -6,6 +6,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@NezertorcheaT)
 [![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0000.svg?logo=itch.io&logoColor=white)](https://nezertorcheat.itch.io/)
 [![Steam](https://img.shields.io/badge/Steam-171D25.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/NezertorcheaT/)
+[![ИТД](https://img.shields.io/badge/ИТД-171D25.svg?logo=итд&logoColor=white)](https://итд.com/@nezertorcheat/)
+
 
 </div>
 

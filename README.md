@@ -7,7 +7,7 @@
 [![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0000.svg?logo=itch.io&logoColor=white)](https://nezertorcheat.itch.io/)
 [![Steam](https://img.shields.io/badge/Steam-171D25.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/NezertorcheaT/)
 [![ИТД](https://img.shields.io/badge/ИТД-171D25.svg?logo=итд&logoColor=white)](https://итд.com/@nezertorcheat/)
-
+[![X](https://img.shields.io/badge/Twitter-171D25.svg?logo=x&logoColor=white)](https://x.com/nezertorcheat)
 
 </div>
 
